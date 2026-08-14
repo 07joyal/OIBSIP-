@@ -13,6 +13,10 @@ Design a unique and memorable logo that represents a brand through simple shapes
 The logo was created for a fictional brand named **CAPSI BELLEI**.
 
 The design is inspired by the natural shape of a bell pepper (capsicum). The logo combines geometric circles and simplified organic forms to create a distinctive symbol that reflects nature, freshness, creativity, and modern design.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/684f984d-c6c8-4553-9804-88ffae55ac46" width="250">
+</p>
+
 
 ## Design Process
 
