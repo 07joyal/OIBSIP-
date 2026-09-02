@@ -1,4 +1,4 @@
-# Graphic Design Internship - Task 3: Infographic Design
+# Graphic Design Internship - Task 4: Infographic Design
 
 ## Objective
 
